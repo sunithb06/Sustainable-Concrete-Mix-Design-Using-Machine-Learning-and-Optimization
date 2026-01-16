@@ -16,6 +16,23 @@ This project presents a machine learning–based system for predicting concrete 
 
 ---
 
+## 📊 Dataset Description
+
+### Original Dataset
+The original dataset contains concrete mix compositions and corresponding compressive strength values obtained from standard experimental studies.
+
+### Synthetic Dataset Augmentation
+The original dataset was expanded using synthetic data generation techniques to improve model generalization and robustness.
+
+- Statistical resampling and controlled random perturbations were applied  
+- Feature distributions and physical constraints were preserved  
+- Unrealistic or infeasible mix combinations were avoided  
+- The final dataset consists of **10,000 samples**, including original and synthetic data  
+
+> Synthetic data augmentation was performed using statistical sampling techniques to enhance dataset size and diversity while preserving original feature distributions.
+
+---
+
 ##  Models Used
 The following regression models were trained and evaluated:
 

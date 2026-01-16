@@ -1,6 +1,6 @@
 # Sustainable-Concrete-Mix-Design-Using-Machine-Learning-and-Optimization
 Sustainable Concrete Mix Design Using Machine Learning and Optimization
-#  Sustainable Concrete Mix Design Using Machine Learning and Optimization
+
 
 ## 📌 Project Overview
 This project presents a machine learning–based system for predicting concrete compressive strength and generating sustainable concrete mix proportions. The system balances structural performance with environmental impact by minimizing CO₂ emissions through optimized use of fly ash and slag as cement replacements.
